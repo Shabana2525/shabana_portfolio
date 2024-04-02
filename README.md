@@ -31,7 +31,7 @@ I am a computer science graduate passionate about data analysis and its applicat
 alongside indicators of bike purchase behavior. By cleaning data, using pivot tables, and creating dashboards, we extracted useful insights for making smart business decisions.
 - **Tools Used:** Microsoft Excel
 
-- **Link:** [Link to Project](insert_link_to_project_repository)
+- **Link:** [Link to Project](https://github.com/Shabana2525/shabana_portfolio/blob/main/Bike%20Purchasing%20analysis.xlsx)
 
 
 

@@ -2,4 +2,5 @@ title:Show shabana
 #logo :
 #description test below image
 show_dowload : true
-theme : jekyll-theme-minimal
+theme:jekyll-theme-minimal
+

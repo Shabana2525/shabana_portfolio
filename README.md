@@ -1,4 +1,3 @@
 ### data anlysis 
 
-### education 
-### projects
+

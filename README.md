@@ -33,6 +33,22 @@ alongside indicators of bike purchase behavior. By cleaning data, using pivot ta
 
 - **Link:** [Link to Project](https://github.com/Shabana2525/shabana_portfolio/blob/main/Bike%20Purchasing%20analysis.xlsx)
 
+## 2.SQL Project : Swiggy Analysis - Exploring Customer Behavior and Delivery Performance
+**Description:** This project focuses on analyzing data from Swiggy, a prominent food delivery platform, to uncover insights related to customer behavior and delivery performance. By examining various aspects such as customer orders, restaurant performance, delivery efficiency, and customer satisfaction, the analysis aims to identify opportunities for improvement and growth within the platform.
+
+**Key Insights:**
+
+ - Analyzed daily customer engagement and food preferences to tailor offerings.
+ - Identified top-performing restaurants and cuisine types to enhance partnerships.
+ -  Examined delivery times and efficiency to ensure timely service and address delays.
+ - Evaluated customer feedback and ratings to identify common issues and improve service.
+ - Explored trends in customer orders to identify potential growth opportunities for Swiggy.
+
+
+**Tools Used:**  SQL, Data Analysis
+
+**Link:**  Link to Project [Note: Insert your GitHub repository link here]
+
 
 
 

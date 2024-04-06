@@ -47,7 +47,14 @@ alongside indicators of bike purchase behavior. By cleaning data, using pivot ta
 
 **Tools Used:**  SQL, Data Analysis
 
-**Link:**  Link to Project [Note: Insert your GitHub repository link here]
+**Link:**  Link to Project [https://github.com/Shabana2525/shabana_portfolio/blob/main/swiggy%20analysis.sql]
+
+## 3.Python Project : Title: Indian Motorcycle Seat Height Analysis Using Python
+
+**Description:**
+This project delves into the analysis of seat height for Indian motorcycles using Python. The aim is to determine the optimal seat height considering various factors such as rider's height, bike type, and more. By gathering and analyzing data, valuable insights are provided to assist riders in selecting the appropriate seat height for their motorcycles. Additionally, this analysis offers valuable feedback to motorcycle manufacturers for designing bikes with suitable seat heights for Indian customers.
+
+**Tools Used:** Python,Jupyter Notebook, pandas, numpy, matplotlib
 
 
 
